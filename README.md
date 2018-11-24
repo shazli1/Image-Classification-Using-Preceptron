@@ -2,7 +2,7 @@
 
 First Requirement:
 ==================
-It was required to design a Perceptron-based classification algorithm that can recognize scanned images of the 10 digits (0 to 9).
+It was required to design a Perceptron-based classification algorithm that can recognize scanned images of the 10 digits (0 to 9).'\n'
 The data set three folders: “Train”, “Validation” and “Test”. The “Train” folder contains 240 images for each digit, while each of the “Validation” and “Test” folders contain 20 images for each digit.
 The images in the “Train” folder should be used to train a classifier for each digit using the Perceptron Discriminant Function for k-classes. The folder contains a file named “Training Labels.txt” which includes the labels of the 2400 images in order.
 You need to train the classifiers using each of the following values for the learning rate η = 1, 10^-1, 10^-2, 10^-3, 10^-4, 10^-5, 10^-6, 10^-7, 10^-8, 10^-9.
